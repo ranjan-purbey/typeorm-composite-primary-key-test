@@ -1,0 +1,7 @@
+{
+  "name": "default",
+  "type": "sqlite",
+  "database": "sqlitedb.db",
+  "logging": true,
+  "synchronize": true
+}
